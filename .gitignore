@@ -46,3 +46,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /bin/
+
+# lwjgl
+lwjgl3/
+
+# tutorial
+Tutorial/
+
